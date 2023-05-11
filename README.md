@@ -1,5 +1,3 @@
-Here's an optimized version of your README:
-
 # Hello there 👋
 
 I'm Mohamed Sharif, an Engineer based in Egypt, who is passionate about applying computational sciences in various fields, and loves learning new things.
