@@ -4,15 +4,15 @@ I'm Mohamed Sharif, an Engineer based in Egypt, who is passionate about applying
 
 ![](https://komarev.com/ghpvc/?username=mohamed-sharif&color=brightgreen)
 
-- Programming languages: C, C++, Java, Python, JavaScript, Bash, Go, Swift, Matlab
-- Frameworks: Node.js, Django
-- Tools: 
+- Programming languages: C, C++, Java, Python, JavaScript, Bash, Go, Swift, Ruby, Matlab
+- Frameworks: Node.js, Django, Ruby on Rails
+- Tools: Docker, kubernetes, CI/CD tools, AWS, GCP 
 
-Here are some of my recent projects: (will update soon)
+Here are some of my recent projects:
 
-- [Project Name]: [Brief Description of Project]
-- [Project Name]: [Brief Description of Project]
-- [Project Name]: [Brief Description of Project]
+- CROWD FUNDING APP USING PYTHON AND MONGODB: An application that allows users to register, create funding campaigns, and manage their own campaigns.
+- JENKINS CI/CD PIPELINE SETUP: I designed a Jenkins CI/CD pipeline for a Node.js application using Docker, Terraform, Ansible, Slack notifications, Audit Logs,  and dynamic job scaling on EKS.
+- UDACITY PICK AND PLACE PROJECT: ROBOTICS PERCEPTION, PLANNING, AND CONTROL
 
 Feel free to reach out to me through my email or LinkedIn:
 
